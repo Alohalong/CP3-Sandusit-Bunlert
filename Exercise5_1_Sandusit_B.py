@@ -1,0 +1,6 @@
+number1 = int(input("Enter number1: "))
+number2 = int(input("Enter number2: "))
+print(f"{number1}+{number2} =",number1+number2)
+print(f"{number1}+{number2} =",number1-number2)
+print(f"{number1}+{number2} =",number1*number2)
+print(f"{number1}+{number2} =",int(number1/number2))
